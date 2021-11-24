@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-
+//DATASHEET: https://www.nxp.com/docs/en/data-sheet/MPL3115A2.pdf
 
 I2C i2c(PF_0, PF_1); // SDA, SCL
 
